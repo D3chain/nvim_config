@@ -1,1 +1,1 @@
-require("echatela")
+require("config.lazy")
